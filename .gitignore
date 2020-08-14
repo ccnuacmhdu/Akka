@@ -1,7 +1,0 @@
-Akka.iml
-dependency-reduced-pom.xml
-target
-.idea
-src/main/resources
-src/test
-.gitignore
